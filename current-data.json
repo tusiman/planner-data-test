@@ -1,0 +1,34 @@
+{
+  "app": "personal-task-manager",
+  "export_type": "current-data-sync",
+  "schema_version": 1,
+  "generated_at": "2026-10-14T06:08:14.868Z",
+  "projects": [
+    {
+      "id": "project_mv7jbg5y_xwhir",
+      "name": "欠款追缴",
+      "goal": "追回欠款",
+      "description": "",
+      "status": "active",
+      "startDate": "2026-10-14",
+      "targetDate": "",
+      "updatedAt": "2026-10-14T03:12:52.630Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task_mv7j9kk8_1bfaz",
+      "project_id": "project_mv7jbg5y_xwhir",
+      "title": "欠条询问法律援助",
+      "description": "",
+      "next_action": "下午打电话",
+      "priority": "medium",
+      "due_date": "2026-10-14",
+      "plan_status": "active",
+      "execution_status": "todo",
+      "source": "manual",
+      "updated_at": "2026-10-14T03:13:03.606Z",
+      "logs": []
+    }
+  ]
+}
