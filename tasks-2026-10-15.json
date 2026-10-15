@@ -1,6 +1,18 @@
 {
   "format": "simple-task-list",
   "version": 1,
-  "exportedAt": "2026-10-15T06:42:37.939Z",
-  "tasks": []
+  "exportedAt": "2026-10-15T06:49:41.636Z",
+  "tasks": [
+    {
+      "id": "2d444f25-fd20-4a7c-8c65-68a19e8699d8",
+      "title": "测试任务",
+      "dueDate": "2026-10-15",
+      "priority": "high",
+      "category": "个人事务",
+      "notes": "测试备注",
+      "createdAt": "2026-10-15T06:40:44.316Z",
+      "updatedAt": "2026-10-15T06:48:58.368Z",
+      "completedAt": null
+    }
+  ]
 }
