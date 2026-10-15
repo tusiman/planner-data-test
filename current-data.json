@@ -2,7 +2,7 @@
   "app": "personal-task-manager",
   "export_type": "current-data-sync",
   "schema_version": 1,
-  "generated_at": "2026-10-14T13:26:05.502Z",
+  "generated_at": "2026-10-15T00:49:40.377Z",
   "projects": [
     {
       "id": "project_government",
@@ -12,7 +12,7 @@
       "status": "active",
       "startDate": "2026-10-14",
       "targetDate": "",
-      "updatedAt": "2026-10-14T13:19:29Z"
+      "updatedAt": "2026-10-14T13:26:05.502Z"
     },
     {
       "id": "project_legal_aid",
@@ -22,7 +22,7 @@
       "status": "active",
       "startDate": "2026-10-14",
       "targetDate": "2026-10-18",
-      "updatedAt": "2026-10-14T13:19:29Z"
+      "updatedAt": "2026-10-14T13:26:05.502Z"
     },
     {
       "id": "project_finance",
@@ -32,7 +32,7 @@
       "status": "active",
       "startDate": "2026-10-14",
       "targetDate": "2026-10-18",
-      "updatedAt": "2026-10-14T13:19:29Z"
+      "updatedAt": "2026-10-14T13:26:05.502Z"
     },
     {
       "id": "project_job_search",
@@ -42,7 +42,7 @@
       "status": "active",
       "startDate": "2026-10-14",
       "targetDate": "",
-      "updatedAt": "2026-10-14T13:19:29Z"
+      "updatedAt": "2026-10-14T13:26:05.502Z"
     },
     {
       "id": "project_game_demo",
@@ -52,7 +52,7 @@
       "status": "active",
       "startDate": "2026-10-14",
       "targetDate": "",
-      "updatedAt": "2026-10-14T13:19:29Z"
+      "updatedAt": "2026-10-14T13:26:05.502Z"
     },
     {
       "id": "project_personal_app",
@@ -62,7 +62,7 @@
       "status": "active",
       "startDate": "2026-10-14",
       "targetDate": "2026-10-18",
-      "updatedAt": "2026-10-14T13:19:29Z"
+      "updatedAt": "2026-10-14T13:26:05.502Z"
     }
   ],
   "tasks": [
@@ -87,11 +87,11 @@
       "description": "咨询三个问题：1. 当前情况是否建议起诉；2. 起诉时如何获取欠款人身份信息，暂不起诉时如何核实是否为被执行人或失信被执行人；3. 是否符合免费法律援助条件。注意说明欠条有修改且修改人不明。",
       "next_action": "整理欠条、欠薪经过、欠款人/中间人线索及现有证据，联系法律援助或公共法律服务渠道咨询",
       "priority": "high",
-      "due_date": "2026-10-18",
+      "due_date": "2026-10-15",
       "plan_status": "active",
       "execution_status": "todo",
       "source": "ai",
-      "updated_at": "2026-10-14T13:19:29Z",
+      "updated_at": "2026-10-15T00:47:59.454Z",
       "logs": []
     },
     {
